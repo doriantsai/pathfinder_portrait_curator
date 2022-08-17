@@ -16,7 +16,7 @@ import machinevisiontoolbox as mvt
 # Medium      width: 330px, height: 432px;
 # Fulllength  width: 692px, height: 1024px;
 
-DELETE_INCONSISTENT_FOLDERS = True
+DELETE_INCONSISTENT_FOLDERS = False
 
 class Portrait:
     # class for Portrait that is defined by image size and name
